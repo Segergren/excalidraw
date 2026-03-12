@@ -27,8 +27,10 @@ export const AppSidebar = () => {
         </Sidebar.TabTrigger>
       </DefaultSidebar.TabTriggers>
       <Sidebar.Tab tab="comments">
+        <div />
       </Sidebar.Tab>
       <Sidebar.Tab tab="presentation" className="px-3">
+        <div />
       </Sidebar.Tab>
     </DefaultSidebar>
   );
